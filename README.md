@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/banner.svg" alt="signalstack — live cyberpunk dashboard for the quantflow ecosystem" width="100%"/>
+</p>
+
 # signalstack
 
 > Live cyberpunk dashboard for the **quantflow** ecosystem.
